@@ -1,0 +1,68 @@
+body {
+  background-color: #ff;
+  color: #00;
+}
+
+nav {
+  background-color: rgba(0,0,0,.5);
+  float: left;
+  position: fixed;
+  width: 100%;
+}
+
+.logo {
+  margin: 20px;
+  width: 100px;
+}
+
+.large-pic {
+  width: 100%;
+}
+
+.medium-pic {
+  
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  float: right;
+  padding: 30px;
+}
+
+article {
+  padding-top: 100px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
+
+body {
+	line-height: 22px;
+  font-size: 18px;
+}
+
+h1 {
+  line-height: 40px;
+  font-size: 32px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 22px;
+
+}
