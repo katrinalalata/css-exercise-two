@@ -29,6 +29,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
+<<<<<<< HEAD
 	line-height: 20px;
   font-size: 18px;
 }
@@ -37,6 +38,9 @@ h1 {
 }
 p {
   font-size: 18px;
+=======
+	line-height: 1;
+>>>>>>> 611e1657a422459405d1c5d8fc424250b77af1ac
 }
 ol, ul {
 	list-style: none;
