@@ -28,10 +28,36 @@ nav {
   float: right;
 }
 
+ul {
+  list-style-type: none;
+  float: right;
+}
+
 li {
   float: right;
   padding: 30px;
+  text-decoration: none;
 }
+
+a:link {
+  color:#ffffff;
+  text-decoration: none;
+  } /* unvisited */
+
+a:visited {
+  color:#ffffff;
+  text-decoration: none;
+  } /* visited */
+
+a:hover {
+  color:#000000;
+  text-decoration: none;
+  } /* mouse over */
+
+a:active {
+  color:#ffffff;
+  text-decoration: none;
+  } /* selected */
 
 article {
   padding-top: 100px;
