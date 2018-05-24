@@ -1,11 +1,6 @@
 body {
-<<<<<<< HEAD
   background-color: #ff;
   color: #00;
-=======
-  background-color: #ff0000;
-  color: #0000FF;
->>>>>>> 611e1657a422459405d1c5d8fc424250b77af1ac
 }
 
 nav {
@@ -20,16 +15,8 @@ nav {
   width: 100px;
 }
 
-.large-pic {
-  width: 100%;
-}
-
 .medium-pic {
-<<<<<<< HEAD
-  
-=======
   width: 70%;
->>>>>>> 611e1657a422459405d1c5d8fc424250b77af1ac
 }
 
 .left, .right {
@@ -38,11 +25,6 @@ nav {
 }
 
 .right {
-  float: right;
-}
-
-ul {
-  list-style-type: none;
   float: right;
 }
 
@@ -59,7 +41,6 @@ article {
   margin: 0 auto;
   width: 50%;
 }
-<<<<<<< HEAD
 
 body {
 	line-height: 22px;
@@ -76,5 +57,3 @@ p {
   line-height: 22px;
 
 }
-=======
->>>>>>> 611e1657a422459405d1c5d8fc424250b77af1ac
